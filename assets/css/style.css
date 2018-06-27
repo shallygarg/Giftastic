@@ -1,0 +1,14 @@
+.animal{
+    background-color:teal;
+    color: white;
+    margin: 5px;
+}
+.images{
+    float: left;
+}
+.image{
+    margin: 10px;
+}
+#add-animal{
+    margin-top: 10px;
+}
